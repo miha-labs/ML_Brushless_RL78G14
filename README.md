@@ -15,7 +15,7 @@ MCU：[RL78/G14](https://www.renesas.com/jp/ja/products/microcontrollers-micropr
 
 
 # 接続図
-
+![接続図_RL78](https://github.com/miha-labs/ML_Brushless_RL78G14/assets/95220539/9bf6f296-9118-4a55-b5dd-25d7cd33d3d2)
 
 
 # PC用アプリ
